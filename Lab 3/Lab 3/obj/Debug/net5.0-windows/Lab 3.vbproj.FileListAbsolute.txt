@@ -1,0 +1,19 @@
+C:\Users\aerea\source\repos\Lab 3\Lab 3\bin\Debug\net5.0-windows\Lab 3.exe
+C:\Users\aerea\source\repos\Lab 3\Lab 3\bin\Debug\net5.0-windows\Lab 3.deps.json
+C:\Users\aerea\source\repos\Lab 3\Lab 3\bin\Debug\net5.0-windows\Lab 3.runtimeconfig.json
+C:\Users\aerea\source\repos\Lab 3\Lab 3\bin\Debug\net5.0-windows\Lab 3.runtimeconfig.dev.json
+C:\Users\aerea\source\repos\Lab 3\Lab 3\bin\Debug\net5.0-windows\Lab 3.dll
+C:\Users\aerea\source\repos\Lab 3\Lab 3\bin\Debug\net5.0-windows\ref\Lab 3.dll
+C:\Users\aerea\source\repos\Lab 3\Lab 3\bin\Debug\net5.0-windows\Lab 3.pdb
+C:\Users\aerea\source\repos\Lab 3\Lab 3\obj\Debug\net5.0-windows\Lab 3.vbproj.AssemblyReference.cache
+C:\Users\aerea\source\repos\Lab 3\Lab 3\obj\Debug\net5.0-windows\Lab_3.Form1.resources
+C:\Users\aerea\source\repos\Lab 3\Lab 3\obj\Debug\net5.0-windows\Lab_3.Resources.resources
+C:\Users\aerea\source\repos\Lab 3\Lab 3\obj\Debug\net5.0-windows\Lab 3.vbproj.GenerateResource.cache
+C:\Users\aerea\source\repos\Lab 3\Lab 3\obj\Debug\net5.0-windows\Lab 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aerea\source\repos\Lab 3\Lab 3\obj\Debug\net5.0-windows\Lab 3.AssemblyInfoInputs.cache
+C:\Users\aerea\source\repos\Lab 3\Lab 3\obj\Debug\net5.0-windows\Lab 3.AssemblyInfo.vb
+C:\Users\aerea\source\repos\Lab 3\Lab 3\obj\Debug\net5.0-windows\Lab 3.vbproj.CoreCompileInputs.cache
+C:\Users\aerea\source\repos\Lab 3\Lab 3\obj\Debug\net5.0-windows\Lab 3.dll
+C:\Users\aerea\source\repos\Lab 3\Lab 3\obj\Debug\net5.0-windows\ref\Lab 3.dll
+C:\Users\aerea\source\repos\Lab 3\Lab 3\obj\Debug\net5.0-windows\Lab 3.pdb
+C:\Users\aerea\source\repos\Lab 3\Lab 3\obj\Debug\net5.0-windows\Lab 3.genruntimeconfig.cache

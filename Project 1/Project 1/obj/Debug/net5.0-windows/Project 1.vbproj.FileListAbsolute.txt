@@ -1,0 +1,19 @@
+C:\Users\aerea\source\repos\Project 1\Project 1\bin\Debug\net5.0-windows\Project 1.exe
+C:\Users\aerea\source\repos\Project 1\Project 1\bin\Debug\net5.0-windows\Project 1.deps.json
+C:\Users\aerea\source\repos\Project 1\Project 1\bin\Debug\net5.0-windows\Project 1.runtimeconfig.json
+C:\Users\aerea\source\repos\Project 1\Project 1\bin\Debug\net5.0-windows\Project 1.runtimeconfig.dev.json
+C:\Users\aerea\source\repos\Project 1\Project 1\bin\Debug\net5.0-windows\Project 1.dll
+C:\Users\aerea\source\repos\Project 1\Project 1\bin\Debug\net5.0-windows\ref\Project 1.dll
+C:\Users\aerea\source\repos\Project 1\Project 1\bin\Debug\net5.0-windows\Project 1.pdb
+C:\Users\aerea\source\repos\Project 1\Project 1\obj\Debug\net5.0-windows\Project 1.vbproj.AssemblyReference.cache
+C:\Users\aerea\source\repos\Project 1\Project 1\obj\Debug\net5.0-windows\Project_1.Form1.resources
+C:\Users\aerea\source\repos\Project 1\Project 1\obj\Debug\net5.0-windows\Project_1.Resources.resources
+C:\Users\aerea\source\repos\Project 1\Project 1\obj\Debug\net5.0-windows\Project 1.vbproj.GenerateResource.cache
+C:\Users\aerea\source\repos\Project 1\Project 1\obj\Debug\net5.0-windows\Project 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aerea\source\repos\Project 1\Project 1\obj\Debug\net5.0-windows\Project 1.AssemblyInfoInputs.cache
+C:\Users\aerea\source\repos\Project 1\Project 1\obj\Debug\net5.0-windows\Project 1.AssemblyInfo.vb
+C:\Users\aerea\source\repos\Project 1\Project 1\obj\Debug\net5.0-windows\Project 1.vbproj.CoreCompileInputs.cache
+C:\Users\aerea\source\repos\Project 1\Project 1\obj\Debug\net5.0-windows\Project 1.dll
+C:\Users\aerea\source\repos\Project 1\Project 1\obj\Debug\net5.0-windows\ref\Project 1.dll
+C:\Users\aerea\source\repos\Project 1\Project 1\obj\Debug\net5.0-windows\Project 1.pdb
+C:\Users\aerea\source\repos\Project 1\Project 1\obj\Debug\net5.0-windows\Project 1.genruntimeconfig.cache

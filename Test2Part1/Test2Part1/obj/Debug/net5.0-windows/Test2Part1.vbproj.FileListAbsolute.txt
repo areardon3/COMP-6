@@ -1,0 +1,17 @@
+C:\Users\aerea\source\repos\Test2Part1\Test2Part1\bin\Debug\net5.0-windows\Test2Part1.exe
+C:\Users\aerea\source\repos\Test2Part1\Test2Part1\bin\Debug\net5.0-windows\Test2Part1.deps.json
+C:\Users\aerea\source\repos\Test2Part1\Test2Part1\bin\Debug\net5.0-windows\Test2Part1.runtimeconfig.json
+C:\Users\aerea\source\repos\Test2Part1\Test2Part1\bin\Debug\net5.0-windows\Test2Part1.runtimeconfig.dev.json
+C:\Users\aerea\source\repos\Test2Part1\Test2Part1\bin\Debug\net5.0-windows\Test2Part1.dll
+C:\Users\aerea\source\repos\Test2Part1\Test2Part1\bin\Debug\net5.0-windows\ref\Test2Part1.dll
+C:\Users\aerea\source\repos\Test2Part1\Test2Part1\bin\Debug\net5.0-windows\Test2Part1.pdb
+C:\Users\aerea\source\repos\Test2Part1\Test2Part1\obj\Debug\net5.0-windows\Test2Part1.Form1.resources
+C:\Users\aerea\source\repos\Test2Part1\Test2Part1\obj\Debug\net5.0-windows\Test2Part1.vbproj.GenerateResource.cache
+C:\Users\aerea\source\repos\Test2Part1\Test2Part1\obj\Debug\net5.0-windows\Test2Part1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aerea\source\repos\Test2Part1\Test2Part1\obj\Debug\net5.0-windows\Test2Part1.AssemblyInfoInputs.cache
+C:\Users\aerea\source\repos\Test2Part1\Test2Part1\obj\Debug\net5.0-windows\Test2Part1.AssemblyInfo.vb
+C:\Users\aerea\source\repos\Test2Part1\Test2Part1\obj\Debug\net5.0-windows\Test2Part1.vbproj.CoreCompileInputs.cache
+C:\Users\aerea\source\repos\Test2Part1\Test2Part1\obj\Debug\net5.0-windows\Test2Part1.dll
+C:\Users\aerea\source\repos\Test2Part1\Test2Part1\obj\Debug\net5.0-windows\ref\Test2Part1.dll
+C:\Users\aerea\source\repos\Test2Part1\Test2Part1\obj\Debug\net5.0-windows\Test2Part1.pdb
+C:\Users\aerea\source\repos\Test2Part1\Test2Part1\obj\Debug\net5.0-windows\Test2Part1.genruntimeconfig.cache

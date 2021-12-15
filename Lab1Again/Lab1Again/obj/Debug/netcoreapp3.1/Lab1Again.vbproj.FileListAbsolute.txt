@@ -1,0 +1,16 @@
+C:\Users\aerea\source\repos\Lab1Again\Lab1Again\obj\Debug\netcoreapp3.1\Lab1Again.vbproj.AssemblyReference.cache
+C:\Users\aerea\source\repos\Lab1Again\Lab1Again\obj\Debug\netcoreapp3.1\Lab1Again.Form1.resources
+C:\Users\aerea\source\repos\Lab1Again\Lab1Again\obj\Debug\netcoreapp3.1\Lab1Again.vbproj.GenerateResource.cache
+C:\Users\aerea\source\repos\Lab1Again\Lab1Again\obj\Debug\netcoreapp3.1\Lab1Again.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aerea\source\repos\Lab1Again\Lab1Again\obj\Debug\netcoreapp3.1\Lab1Again.AssemblyInfoInputs.cache
+C:\Users\aerea\source\repos\Lab1Again\Lab1Again\obj\Debug\netcoreapp3.1\Lab1Again.AssemblyInfo.vb
+C:\Users\aerea\source\repos\Lab1Again\Lab1Again\obj\Debug\netcoreapp3.1\Lab1Again.vbproj.CoreCompileInputs.cache
+C:\Users\aerea\source\repos\Lab1Again\Lab1Again\bin\Debug\netcoreapp3.1\Lab1Again.exe
+C:\Users\aerea\source\repos\Lab1Again\Lab1Again\bin\Debug\netcoreapp3.1\Lab1Again.deps.json
+C:\Users\aerea\source\repos\Lab1Again\Lab1Again\bin\Debug\netcoreapp3.1\Lab1Again.runtimeconfig.json
+C:\Users\aerea\source\repos\Lab1Again\Lab1Again\bin\Debug\netcoreapp3.1\Lab1Again.runtimeconfig.dev.json
+C:\Users\aerea\source\repos\Lab1Again\Lab1Again\bin\Debug\netcoreapp3.1\Lab1Again.dll
+C:\Users\aerea\source\repos\Lab1Again\Lab1Again\bin\Debug\netcoreapp3.1\Lab1Again.pdb
+C:\Users\aerea\source\repos\Lab1Again\Lab1Again\obj\Debug\netcoreapp3.1\Lab1Again.dll
+C:\Users\aerea\source\repos\Lab1Again\Lab1Again\obj\Debug\netcoreapp3.1\Lab1Again.pdb
+C:\Users\aerea\source\repos\Lab1Again\Lab1Again\obj\Debug\netcoreapp3.1\Lab1Again.genruntimeconfig.cache
